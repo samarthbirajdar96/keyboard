@@ -1,0 +1,39 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:white
+}
+
+#main {
+    max-width: 600px;
+    padding: 10px;
+    margin: 50px auto;
+    box-shadow: 1px -1px  10px;
+    margin-top: 200px;
+}
+
+
+p {
+    margin-left: 150px;
+    font-size: 50px;
+    color: rgb(11, 9, 9);
+}
+
+#key-name {
+    font-weight: bold;
+    color: #8ae2a3;
+    font-size: 50px;
+}
+
+#ascii-value {
+    margin-left: 120px;
+    font-weight: 900;
+    width: 100px;
+    height: 100px;
+    color: #8ae2a3;
+   
+}
+
+
+
